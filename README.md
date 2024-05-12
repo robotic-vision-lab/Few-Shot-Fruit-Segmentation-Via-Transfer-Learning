@@ -19,7 +19,7 @@ This repository provides source code for our 2024 ICRA paper titled "[Few-Shot
 Fruit Segmentation via Transfer Learning](https://arxiv.org/pdf/2405.02556)."
 Our light-weight three-branch decoder effectively learns task specific
 boundaries enabling knowledge transfer of learned shapes and boundaries between
-tasks. By leveraging pre-trained neural networks, we show that accurate
+tasks. By leveraging pre-trained neural networks, we demonstrate that accurate
 semantic segmentation of fruit in the field can be achieved with only a few
 labeled images. In addition, we show that models with pre-training learn to
 distinguish between fruit still on the trees and fruit that have fallen on the
