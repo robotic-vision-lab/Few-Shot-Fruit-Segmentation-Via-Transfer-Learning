@@ -80,7 +80,7 @@ The evaluation results on the Minneapple test set are shown below.
 | ImageNet | 670 | 82.1 | 98.7
 | CitDet | 670 | 82.5 | 98.7
 
-### Acknowledgements
+### Acknowledgments
 
 Our implementation is based on [PIDNet](https://github.com/XuJiacong/PIDNet) and [HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation).
 
