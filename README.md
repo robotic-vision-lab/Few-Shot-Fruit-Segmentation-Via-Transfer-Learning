@@ -65,7 +65,7 @@ the tools folder.
 
 ### Evaluation Results
 
-The evaluation results on the Minneapple test set are shown below.
+The evaluation results on the MinneApple test set are shown below.
 
 | Pre-Training | Training Images | Test mIoU (%)| Test Accuracy (%)
 |:-:|:-:|:-:|:-:|
