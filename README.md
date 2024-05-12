@@ -50,7 +50,7 @@ If you find this project useful, then please consider citing our work.
 
 First, begin by cloning the project
 
-    $ git clone https://github.com/robotic-vision-lab/Few-Shot-Fruit-Segmentation-via-Transfer-Learning.git
+    $ git clone https://github.com/robotic-vision-lab/Few-Shot-Fruit-Segmentation-Via-Transfer-Learning.git
     $ cd Few-Shot-Fruit-Segmentation-Via-Transfer-Learning
 
 Then, set up a Python 3 environment by installing Pytorch (1.0.1 or higher) and
