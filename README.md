@@ -35,7 +35,7 @@ If you find this project useful, then please consider citing our work.
   title={Few-Shot Fruit Segmentation via Transfer Learning},
   author={James, Jordan A and Manching, Heather K and Hulse-Kemp, Amanda M and Beksi, William J},
   booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
-  pages={},
+  pages={13618--13624},
   year={2024}
 }
 ```
