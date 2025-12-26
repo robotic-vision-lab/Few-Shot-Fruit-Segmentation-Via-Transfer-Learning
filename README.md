@@ -43,7 +43,7 @@ If you find this project useful, then please consider citing our work.
 ### Model Architecture
 
 <p align="center">
-<img src="images/model_architecture.png" alt="model_architecture" width="600"/>
+  <img src="images/model_architecture.png" alt="model architecture" width="600"/>
 </p>
 
 ### Installation
