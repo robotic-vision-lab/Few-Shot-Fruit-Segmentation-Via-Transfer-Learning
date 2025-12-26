@@ -12,7 +12,7 @@ labeled data are required to handle variations in fruit size, shape, color, and
 occlusion. 
 
 <p align="center">
-  <img src="images/overview.png" width="850">
+  <img src="images/overview.png" alt="overview" width="850">
 </p>
 
 This repository provides source code for our 2024 ICRA paper titled "[Few-Shot
